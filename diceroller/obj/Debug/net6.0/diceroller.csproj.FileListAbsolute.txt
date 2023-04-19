@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\diceroller\diceroller\bin\Debug\net6.0\diceroller.exe
+C:\Users\bowha\source\repos\diceroller\diceroller\bin\Debug\net6.0\diceroller.deps.json
+C:\Users\bowha\source\repos\diceroller\diceroller\bin\Debug\net6.0\diceroller.runtimeconfig.json
+C:\Users\bowha\source\repos\diceroller\diceroller\bin\Debug\net6.0\diceroller.dll
+C:\Users\bowha\source\repos\diceroller\diceroller\bin\Debug\net6.0\diceroller.pdb
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.AssemblyInfo.cs
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.dll
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\refint\diceroller.dll
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.pdb
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\diceroller.genruntimeconfig.cache
+C:\Users\bowha\source\repos\diceroller\diceroller\obj\Debug\net6.0\ref\diceroller.dll

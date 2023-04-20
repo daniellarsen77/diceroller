@@ -44,7 +44,7 @@ internal class Program
                 else if (total == 2 || total == 3 || total == 12) Console.WriteLine("Craps!");
             }
         }
-        catch (Exception ex)
+        catch (FormatException ex)
         {
             Console.WriteLine("Error: " + ex.Message);
         }
